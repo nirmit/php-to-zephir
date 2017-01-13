@@ -34,7 +34,6 @@
 		"issues" : "https://github.com/fezfez/php-to-zephir/issues",
 		"wiki" : "https://github.com/fezfez/php-to-zephir/blob/master/README.md"
 	},
-	"minimum-stability" : "dev",
 	"bin" : [
 		"bin/php-to-zephir"
 	]
