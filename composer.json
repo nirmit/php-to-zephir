@@ -13,7 +13,7 @@
 		"php to zephir",
 		"code conversion"
 	],
-	"homepage" : "https://github.com/fezfez/php-to-zephir",
+	"homepage" : "https://github.com/aschwin/php-to-zephir",
 	"require" : {
 		"nikic/PHP-Parser" : "*",
 		"phpdocumentor/reflection-docblock" : "*",
@@ -35,7 +35,6 @@
 		"wiki" : "https://github.com/fezfez/php-to-zephir/blob/master/README.md"
 	},
 	"minimum-stability" : "dev",
-	"prefer-stable" : true,
 	"bin" : [
 		"bin/php-to-zephir"
 	]
