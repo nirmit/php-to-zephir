@@ -1,5 +1,5 @@
 {
-	"name" : "aschwin/php-to-zephir",
+	"name" : "nirmit/php-to-zephir",
 	"description" : "Transform php code to zephir",
 	"type" : "library",
 	"authors" : [{
@@ -13,7 +13,7 @@
 		"php to zephir",
 		"code conversion"
 	],
-	"homepage" : "https://github.com/aschwin/php-to-zephir",
+	"homepage" : "https://github.com/nirmit/php-to-zephir",
 	"require" : {
 		"nikic/PHP-Parser" : "*",
 		"phpdocumentor/reflection-docblock" : "*",
